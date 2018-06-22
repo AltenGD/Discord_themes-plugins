@@ -3,4 +3,4 @@
 
 ## Pulsating notifications
 
-[pulsing notification](https://imgur.com/dm1C4d9)
+![pulsing notification](https://imgur.com/dm1C4d9)
