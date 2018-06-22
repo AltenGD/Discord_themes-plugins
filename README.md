@@ -6,7 +6,7 @@
 ![Imgur](https://i.imgur.com/dm1C4d9.gif)
 
 ```css
-@import "https://raw.githubusercontent.com/AltenGD/Discord_themes-plugins/master/Plugins/NotifPulse.css";
+@import "https://rawgit.com/AltenGD/Discord_themes-plugins/master/Plugins/NotifPulse.css";
 ```
 #### Variables:
 |Name|Description|
