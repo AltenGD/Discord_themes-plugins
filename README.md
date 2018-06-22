@@ -5,6 +5,10 @@
 
 ![Imgur](https://i.imgur.com/dm1C4d9.gif)
 
-`css
+```css
 @import "https://raw.githubusercontent.com/AltenGD/Discord_themes-plugins/master/Plugins/NotifPulse.css";
-`
+```
+#### Variables:
+|Name|Description|
+|-|-|
+|notifi||Used for changing the colour of the pulse|
