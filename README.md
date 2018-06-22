@@ -30,5 +30,9 @@
 ![Imgur](https://i.imgur.com/CnhKDMp.gif)
 
 ```css
-@import "https://rawgit.com/AltenGD/Discord_themes-plugins/master/Plugins/";
+@import "https://rawgit.com/AltenGD/Discord_themes-plugins/master/Plugins/noiconthingu";
 ```
+#### Variables used:
+|Name|Description|
+|-|-|
+|--accent|Accent colour used from the theme Discord_theme by AlexFlipnote|
