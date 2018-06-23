@@ -30,7 +30,7 @@
 ![Imgur](https://i.imgur.com/CnhKDMp.gif)
 
 ```css
-@import "https://rawgit.com/AltenGD/Discord_themes-plugins/master/Plugins/noiconthingu";
+@import "https://rawgit.com/AltenGD/Discord_themes-plugins/master/Plugins/noiconthingu.css";
 ```
 #### Variables used:
 |Name|Description|
